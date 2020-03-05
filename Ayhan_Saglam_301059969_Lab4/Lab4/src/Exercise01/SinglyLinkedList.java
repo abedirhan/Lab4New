@@ -1,5 +1,4 @@
 package Exercise01;
-
 public class SinglyLinkedList<T> implements Cloneable {
     public Node<T> head = null;
     public Node<T> tail = null;
@@ -159,8 +158,5 @@ public class SinglyLinkedList<T> implements Cloneable {
         tail.setNext(null);
     }
 
-    public static void main(String[] args) throws CloneNotSupportedException {
 
-
-    }
 }

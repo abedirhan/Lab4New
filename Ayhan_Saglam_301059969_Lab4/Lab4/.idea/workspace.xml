@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03d7d1b9-7c3d-49bc-8c38-a2ecd23e14e0" name="Default Changelist" comment="" />
+    <list default="true" id="03d7d1b9-7c3d-49bc-8c38-a2ecd23e14e0" name="Default Changelist" comment="NewCommit">
+      <change beforePath="$PROJECT_DIR$/../../Ayhan_Saglam_301059969_Lab4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab4/META-INF/Lab4.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise01/LinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise01/LinkedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise01/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise01/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise02/TransferStackElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise02/TransferStackElements.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +18,50 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1Yi5wKilpbVMDsSLbPWUicOwNYX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RunManager" selected="Application.TransferStackElements">
+    <configuration name="LinkedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise01.LinkedQueue" />
+      <module name="Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferStackElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise02.TransferStackElements" />
+      <module name="Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TransferStackElements" />
+        <item itemvalue="Application.LinkedQueue" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -27,6 +74,72 @@
       <option name="presentableId" value="Default" />
       <updated>1583412811288</updated>
     </task>
+    <task id="LOCAL-00001" summary="NewCommit">
+      <created>1583412997445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583412997445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NewCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="NewCommit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1463" y="301" key="CommitChangelistDialog2" timestamp="1583416556949">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1463" y="301" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583416556949" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1583416645932">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583416645932" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1583416645932">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583416645932" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1583416645932">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583416645932" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1583416645932">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583416645932" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1583416203581">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583416203581" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1583416203581">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583416203581" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1583416203581">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583416203581" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1583416203581">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583416203581" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise02/TransferStackElements.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise02/TransferStackElements.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

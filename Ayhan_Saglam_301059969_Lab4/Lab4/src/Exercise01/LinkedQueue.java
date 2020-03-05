@@ -51,6 +51,10 @@ public class LinkedQueue<E>implements Queue<E> {
         Q2.list = new SinglyLinkedList<>(); // create ne singly linked list and assign to q2.list.
     }
     public static void main(String[] args) {
+
+
+
+
         LinkedQueue<Integer> queue = new LinkedQueue<>();
         queue.enqueue(1);
         queue.enqueue(2);
@@ -63,5 +67,9 @@ public class LinkedQueue<E>implements Queue<E> {
         queue2.enqueue(3);
         queue2.concatenate(queue);// queue2 linked que list concatenate queue
         System.out.println(queue2.toString());
+
+
+
+
     }
 }
