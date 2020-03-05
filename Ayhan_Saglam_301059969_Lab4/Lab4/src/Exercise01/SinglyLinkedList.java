@@ -160,24 +160,7 @@ public class SinglyLinkedList<T> implements Cloneable {
     }
 
     public static void main(String[] args) throws CloneNotSupportedException {
-        SinglyLinkedList<String> stringSinglyLinkedList = new SinglyLinkedList<String>();
-        SinglyLinkedList<String> stringSinglyLinkedList2 = new SinglyLinkedList<String>();
-        stringSinglyLinkedList.addFirst("xiao");
-        stringSinglyLinkedList.addLast("yang");
-        stringSinglyLinkedList.addFirst("zhang");
-        stringSinglyLinkedList.addLast("is");
-        stringSinglyLinkedList.addLast("good");
-        stringSinglyLinkedList.addFirst("mr. ");
-        stringSinglyLinkedList.rotate();
-        stringSinglyLinkedList2.addFirst("xiao");
-        stringSinglyLinkedList2.addLast("yang");
-        stringSinglyLinkedList2.addFirst("zhang");
-        stringSinglyLinkedList2.addLast("is");
-        stringSinglyLinkedList2.addLast("good");
-        stringSinglyLinkedList2.addFirst("mrs. ");
-        System.out.println(stringSinglyLinkedList.equals(stringSinglyLinkedList2));
-        SinglyLinkedList<String> stringSinglyLinkedList3 = stringSinglyLinkedList.clone();
-        stringSinglyLinkedList.secondToLast();
+
 
     }
 }
