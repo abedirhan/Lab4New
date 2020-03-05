@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed0c52d7-4af3-4d36-a38d-b392ae7eb7c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YSrqUbXJyDnPzL80jL2rOntQCo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/dtastructureWorksSpace" />
+  </component>
+  <component name="RunManager" selected="Application.TransferNullToDictionary">
+    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ayhan_Saglam_301059969_Lab04.Exercise01" />
+      <module name="Ayhan_Saglam_301059969_Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise01.LinkedQueue" />
+      <module name="Ayhan_Saglam_301059969_Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise01.SinglyLinkedList" />
+      <module name="Ayhan_Saglam_301059969_Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferNullToDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise03.TransferNullToDictionary" />
+      <module name="Ayhan_Saglam_301059969_Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferStackElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise02.TransferStackElements" />
+      <module name="Ayhan_Saglam_301059969_Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TransferNullToDictionary" />
+        <item itemvalue="Application.TransferStackElements" />
+        <item itemvalue="Application.LinkedQueue" />
+        <item itemvalue="Application.SinglyLinkedList" />
+        <item itemvalue="Application.Exercise01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed0c52d7-4af3-4d36-a38d-b392ae7eb7c4" name="Default Changelist" comment="" />
+      <created>1582947027528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582947027528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1724" y="596" key="#com.intellij.ide.util.MemberChooser" timestamp="1582990566606">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1724" y="596" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1582990566606" />
+    <state x="1620" y="892" key="FileChooserDialogImpl" timestamp="1582949880733">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1620" y="892" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1582949880733" />
+    <state width="1234" height="483" key="GridCell.Tab.0.bottom" timestamp="1583001585769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="483" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583001585769" />
+    <state width="1234" height="483" key="GridCell.Tab.0.center" timestamp="1583001585769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="483" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583001585769" />
+    <state width="1234" height="483" key="GridCell.Tab.0.left" timestamp="1583001585769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="483" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583001585769" />
+    <state width="1234" height="483" key="GridCell.Tab.0.right" timestamp="1583001585769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="483" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583001585769" />
+    <state width="1234" height="483" key="GridCell.Tab.1.bottom" timestamp="1583001585769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="483" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583001585769" />
+    <state width="1234" height="483" key="GridCell.Tab.1.center" timestamp="1583001585769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="483" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583001585769" />
+    <state width="1234" height="483" key="GridCell.Tab.1.left" timestamp="1583001585769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="483" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583001585769" />
+    <state width="1234" height="483" key="GridCell.Tab.1.right" timestamp="1583001585769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="483" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583001585769" />
+    <state x="988" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1583001600980">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="988" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583001600980" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercise01/LinkedQueue.java</url>
+          <line>42</line>
+          <properties class="Exercise01.LinkedQueue" method="concatenate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercise03/TransferNullToDictionary.java</url>
+          <line>9</line>
+          <properties class="Exercise03.TransferNullToDictionary" method="trasferNotNull">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise01/LinkedQueue.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise03/TransferNullToDictionary.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
